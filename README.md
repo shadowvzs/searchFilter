@@ -15,6 +15,9 @@ This allow make the following searchs:
  Conclusion:
  You have allways *n* filter param + *1* param (mask) in url
 
+
+
+
 **Note:**
 Mask is a number, what tell to us if a filter was included in url or no and every filter have a value.
 
