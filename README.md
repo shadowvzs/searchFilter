@@ -6,19 +6,19 @@ This allow make the following searchs:
  examples:
 
 * user search after a word
-* /search/**mask/word**
+> /search/**mask/word**
  
 * user search after color aand category and size
-* /search/**mask/color_slug/vategory_slug/size_slug**
+> /search/**mask/color_slug/vategory_slug/size_slug**
  
  
- # Conclusion:
+ ### Conclusion:
  You have allways *n* filter param + *1* param (mask) in url
 
 
 
 
-# Note:
+### Note:
 Mask is a number, what tell to us if a filter was included in url or no and every filter have a value.
 
 Example: 
