@@ -20,6 +20,7 @@ user search after color aand category and size
 
 ### Note:
 Mask is a number, what tell to us if a filter was included in url or no and every filter have a value.
+In front end and backend the field names order in array is same :)
 
 Example: 
 color = 2
