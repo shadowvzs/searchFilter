@@ -7,9 +7,11 @@ This allow make the following searchs:
 
 user search after a word
 > /search/**mask/word**
+> /search/**1/pista**
  
 user search after color aand category and size
-> /search/**mask/color_slug/vategory_slug/size_slug**
+> /search/**mask/color_slug/category_slug/size_slug**
+> /search/**52/dark_red/home_use/big**
  
  
  ### Conclusion:
